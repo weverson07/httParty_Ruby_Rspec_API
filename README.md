@@ -184,5 +184,7 @@ E, em seguida, inclua-o em seu spec_helper.rb:
     end
 
 
-**GitHub:**
-Acesso o github do weverson07/httParty_Ruby_Rspec_AP
+**Acesso GitHub:**
+
+
+weverson07/httParty_Ruby_Rspec_AP
